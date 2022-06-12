@@ -1,2 +1,9 @@
 # FIAP-trabalho-disciplina-r
-FIAP - Avaliação da Disciplina R
+Avaliação da Disciplina R do curso de BIG DATA da FIAP.
+Turma 61BDT
+
+Grupo:
+Adalberto Teixeira
+Caroline Myamoto
+Jhonatan Abreu
+Vitor Toni
